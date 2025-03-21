@@ -1,2 +1,5 @@
 Learn how to avoid C Pitfalls:
-  "C Traps and Pitfalls" by Andrew Koenig (Reading, Mass.: Addison-Wesley, 1989)
+  "C Traps and Pitfalls" by Andrew Koenig (Reading, Mass.: Addison-Wesley, 1989).
+
+Error Analysis:
+  Lint (UNIX).
