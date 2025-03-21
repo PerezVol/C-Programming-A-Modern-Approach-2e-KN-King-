@@ -1,0 +1,2 @@
+Learn how to avoid C Pitfalls:
+  "C Traps and Pitfalls" by Andrew Koenig (Reading, Mass.: Addison-Wesley, 1989)
